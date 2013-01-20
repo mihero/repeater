@@ -3,6 +3,8 @@
  *
  * Copyright (c) 2013, Mikko Rosten (mikko.rosten@iki.fi)
  *
+ * Thanks to Pete Batard <pete@akeo.ie> for instructions in
+ * http://pete.akeo.ie/2011/08/writing-linux-device-driver-for-kernels.html
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
